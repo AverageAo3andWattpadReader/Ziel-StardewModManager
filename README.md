@@ -1,6 +1,7 @@
 # Ziel-StardewModManager
 Originally made for myself, This is very incomplete. every other mod manager didnt work out well for me.
 Feel free to use(personally duh)
+MAINLY A MOD UPDATER!!!
 
 INFO:
 Only has 3 main features:
